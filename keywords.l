@@ -2,7 +2,7 @@
 #include<stdio.h>
 %}
 
-Keyword auto|break|const|case|char|continue|do|double|default|else|enum|ext>
+Keyword auto|break|const|case|char|continue|do|double|default|else|enum|extorn|for|float|goto|if|int|long|return|register|short|switch|signed|sizeof|struct|static|typeof|union|unsigned|volatile|void|while
 letter [a-z A-Z]
 digit [0-9]
 
